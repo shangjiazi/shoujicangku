@@ -1,6 +1,6 @@
 {
-  "name": "LXK9301 task gallery",
-  "description": "https://github.com/LXK9301/jd_scripts",
+  "name": "构造请求",
+  "description": "https://github.com/shangjiazi/shoujicangku",
   "task": [
     "*/60 10-20 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.js,tag=小乐,enabled=true",
     "0 35 2 1,10,20 * ? https://gitee.com/qq34347476/quantumult-x/raw/master/get_share_jd_code.js, tag=获取并提交助力码, img-url=https://raw.githubusercontent.com/yogayyy/task/master/huzhucode.png, enabled=true",
