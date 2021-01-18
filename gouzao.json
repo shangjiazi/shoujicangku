@@ -2,6 +2,7 @@
   "name": "构造请求",
   "description": "https://github.com/shangjiazi/shoujicangku",
   "task": [
+    "1 * * * * https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_family.js, tag=京东家庭号, enabled=true",
     "*/60 10-20 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.js,tag=小乐,enabled=true",
     "0 35 2 1,10,20 * ? https://gitee.com/qq34347476/quantumult-x/raw/master/get_share_jd_code.js, tag=获取并提交助力码, img-url=https://raw.githubusercontent.com/yogayyy/task/master/huzhucode.png, enabled=true",
     "*/30 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/xp.jpg, enabled=true",
