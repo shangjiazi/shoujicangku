@@ -2,6 +2,7 @@
   "name": "构造请求",
   "description": "https://github.com/shangjiazi/shoujicangku",
   "task": [
+    "0 0 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_coupon.js, tag=源头好物红包, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_coupon.jpg, enabled=true",
     "30 9 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_festival.js, tag=京东手机年终奖, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_festival2.jpg, enabled=true",
     "40 21 25 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_super.js, tag=超级直播间任务赢京豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "30,31 20-23/1 19 1 * https://raw.githubusercontent.com/shylocks/Loon/main/jd_live_redrain.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/shylocks/Loon/main/icons/jd_live_redrain_super.jpg, enabled=true",
