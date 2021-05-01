@@ -4,8 +4,8 @@
     "task": [{
             "config": "10 9 * * * https://raw.githubusercontent.com/age174/-/main/tyg.js, tag=淘优购, img-url=https://ae01.alicdn.com/kf/Ud9336913fc5140ae886b06fccf9b90a3y.jpg, enabled=true",
         }, {
-            "config": "0 0 0 1 1 * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-qczjspeed-body2.txt, img-url=https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@master\/Task\/qczjspeed.png, tag=汽车之家极速版获取时段body, enabled=false",
-            "addons": "https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/ziye-qczjspeed-body2.txt, tag=汽车之家极速版获取时段body, update-interval=86400, opt-parser=false, enabled=false",
+            "config": "0 0 0 1 1 * https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt,  tag=临时脚本订阅, enabled=false",
+            "addons": "https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt, tag=临时脚本订阅, update-interval=86400, opt-parser=false, enabled=false",
         },
     ],
 }
