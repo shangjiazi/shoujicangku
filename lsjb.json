@@ -1,0 +1,3 @@
+hostname =shop.taoyougou.cc,
+#淘优购
+https://shop.taoyougou.cc/api/ url script-request-header https://raw.githubusercontent.com/age174/-/main/tyg.js
