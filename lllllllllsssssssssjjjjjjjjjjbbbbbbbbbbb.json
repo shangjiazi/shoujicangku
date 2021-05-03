@@ -2,7 +2,7 @@
     "name": "临时脚本订阅修改",
     "description": "TG临时脚本订阅修改",
     "task": [{
-            "config": "*/10 * * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/fhxz.js, tag=柠檬富豪小镇, enabled=true",
+            "config": "20 9 * * * https://raw.githubusercontent.com/age174/-/main/ximei.js, tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg, enabled=true",
         }, {
             "config": "0 0 0 1 1 * https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt,  tag=临时脚本订阅, enabled=false",
             "addons": "https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt, tag=临时脚本订阅, update-interval=86400, opt-parser=false, enabled=false",
