@@ -1,3 +1,3 @@
-hostname =daojia.jd.com,
-#临时
-daojia.jd.com/html/index.html url script-request-header https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getck.js 
+hostname =app.hubonews.com,
+#西梅
+https://app.hubonews.com/.+/articles/list url script-request-body https://raw.githubusercontent.com/age174/-/main/ximei.js
