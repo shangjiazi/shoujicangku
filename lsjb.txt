@@ -1,3 +1,3 @@
 hostname =bp-api.coohua.com,
 #西梅1
-https://bp-api.coohua.com/bubuduo-xfyjc/task/getHomePageTask url script-request-header https://raw.githubusercontent.com/age174/-/main/xfyjc.js
+https://bp-api.coohua.com/bubuduo-ryhy/game/plant url script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js
