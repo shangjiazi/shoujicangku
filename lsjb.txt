@@ -1,3 +1,3 @@
-hostname =c.tieba.baidu.com,
+hostname =haokan.baidu.com,
 #西梅1
-https?:\/\/(c\.tieba\.baidu\.com|180\.97\.\d+\.\d+)\/c\/s\/login url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js
+https:\/\/haokan\.baidu\.com\/activity\/h5\/vault\?productid=\d url script-request-header https://raw.githubusercontent.com/Sunert/Script/master/Task/baidu_speed.js
