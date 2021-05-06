@@ -2,7 +2,7 @@
     "name": "临时脚本订阅修改",
     "description": "TG临时脚本订阅修改",
     "task": [{
-            "config": "*/15 * * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js, img-url=https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg, enabled=true",
+            "config": "*/15 * * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/baidu_speed.js, img-url=https://ae01.alicdn.com/kf/Ue110888eddad48a8a78d99284e599b134.jpg, enabled=true",
         }, {
             "config": "0 0 0 1 1 * https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt,  tag=临时脚本订阅, enabled=false",
             "addons": "https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt, tag=临时脚本订阅, update-interval=86400, opt-parser=false, enabled=false",
