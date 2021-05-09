@@ -2,7 +2,7 @@
     "name": "临时脚本订阅修改",
     "description": "TG临时脚本订阅修改",
     "task": [{
-            "config": "50 12 * * * https://raw.githubusercontent.com/age174/-/main/fksl.js, tag=疯狂森林, img-url=https://ae01.alicdn.com/kf/U1d2f24494aa1460286360f8bb0e10210Y.jpg, enabled=true",
+            "config": "10 9 * * * https://raw.githubusercontent.com/age174/-/main/scdcg.js, tag=食材大冲关, img-url=https://ae01.alicdn.com/kf/Ue353b658a4424a1e873d0b66620d06a41.jpg, enabled=true",
         }, {
             "config": "0 0 0 1 1 * https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt,  tag=临时脚本订阅, enabled=false",
             "addons": "https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt, tag=临时脚本订阅, update-interval=86400, opt-parser=false, enabled=false",
