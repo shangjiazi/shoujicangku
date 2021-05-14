@@ -2,7 +2,7 @@
     "name": "临时脚本订阅修改",
     "description": "TG临时脚本订阅修改",
     "task": [{
-            "config": "0 0 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
+            "config": "*/1 * * * * http://nm66.top/qmlzc.js, tag=柠檬全民来找茬, img-url=circles.hexagongrid.fill.system, enabled=true",
         }, {
             "config": "0 0 0 1 1 * https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt,  tag=临时脚本订阅, enabled=false",
             "addons": "https:\/\/raw.githubusercontent.com\/shangjiazi\/shoujicangku\/main\/lsjb.txt, tag=临时脚本订阅, update-interval=86400, opt-parser=false, enabled=false",
