@@ -2,7 +2,7 @@
 // 每次运行都会添加新任务，请不要多次运行
 // 这只是一个简单的范例，如果出现未知问题，手动修正一下代码
 
-const suburl = 'https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task_Remote.conf'
+const suburl = 'https://raw.githubusercontents.com/nzw9314/QuantumultX/master/Task_Remote.conf'
 
 const webhook = {
   url: '/webhook',              // 远程： http://sss.xxxx.com/webhook
